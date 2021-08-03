@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AshwinSH2000
 - 👀 I’m interested in Data Mining and its applications
-- 🌱 I’m currently scratching the surface of this massive field called Machine Learning 
+- Scratching the surface of this massive field called Machine Learning 
+- 🌱 I’m currently trying to understand the mathematics involved in it
 - 📫 ashwinsh22@gmail.com
 
 <!---
