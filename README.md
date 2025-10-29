@@ -32,6 +32,9 @@ I'm a recent MSc Computer Science graduate from the University of Edinburgh, cur
 
 When I'm not coding, you might find me cycling long distances and exploring new places on two wheels!
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AshwinSH2000)
+
+
 <!--
 **AshwinSH2000/AshwinSH2000** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
